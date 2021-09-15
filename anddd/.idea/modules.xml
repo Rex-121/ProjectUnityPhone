@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/anddd.iml" filepath="$PROJECT_DIR$/.idea/modules/anddd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/launcher/anddd.launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/launcher/anddd.launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unityLibrary/anddd.unityLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/unityLibrary/anddd.unityLibrary.iml" />
+    </modules>
+  </component>
+</project>
